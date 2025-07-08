@@ -1,3 +1,6 @@
 [submodule "guess_game"]
 	path = guess_game
 	url = https://github.com/L0puh/guess_game.git
+[submodule "light_rate"]
+	path = light_rate
+	url = https://github.com/L0puh/light_rate
